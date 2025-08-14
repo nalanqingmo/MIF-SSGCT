@@ -1,5 +1,5 @@
-# TGIE4Rec
-Source code and datasets for "Transition Information Enhanced Gated Graph Neural Networks for Session-based Recommendation"
+# MIF-SSGCT
+
 ## Requirements
 
 - Python 3
